@@ -1,8 +1,5 @@
-# Rogerio Missio
+# fj22-ingressos
+Fontes do projeto do curso Caelum fj22. Exemplo de aplicativo para vendas de ingressos.
 
-Trabalhando com Mainframes desde 1989 e agora aventurando-se com tecnologias mais recentes.
-
-  - Cobol (experiente)
-  - Java (iniciante)
- 
+16 de Setembro de 2017
 
