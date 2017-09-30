@@ -14,6 +14,10 @@ public class LugarDao {
 
     @PersistenceContext
     private EntityManager manager;
+    
+    public Lugar findOne(Integer id) {
+		return manager.find(Lugar.class, id);
+}
 
     public void save(Lugar lugar) {
         manager.persist(lugar);
